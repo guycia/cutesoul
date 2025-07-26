@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Dont Know Who I Am? LoL",
-    "\"Hello, World!\""
+    "MindShip DeepSoul",
+    "\"If I was the moon would you still look forthe stars?\""
   ];
   let bioText = '';
   let bioIndex = 0;
